@@ -103,6 +103,3 @@ Push to your fork
 
 Open a Pull Request
 
-📄 License
-
-This project is licensed under the MIT License (or update as appropriate).
